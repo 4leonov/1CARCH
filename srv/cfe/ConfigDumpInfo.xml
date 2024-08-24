@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="Catalog.НастройкиСинхронизации" id="c9374317-80fc-4fb6-8d6e-afab2dac0f8f" configVersion="4f3d50b62c232fd5f03ac6d2ac598238f039ffa8">
+			<Metadata name="Catalog.НастройкиСинхронизации.Attribute.ТочкаОбмена" id="061fe1d2-624e-4db9-9914-b493eb2ef2aa"/>
+			<Metadata name="Catalog.НастройкиСинхронизации.Attribute.ВиртуальныйХост" id="314b5365-355b-4194-bd35-3ebe1fb6203a"/>
+			<Metadata name="Catalog.НастройкиСинхронизации.Attribute.КлючМаршрутизации" id="426cd175-ec00-4a31-87c2-67af2746f43b"/>
+			<Metadata name="Catalog.НастройкиСинхронизации.Attribute.Пароль" id="912eb67e-a4db-4e1c-bea6-1c58a1250fd6"/>
+			<Metadata name="Catalog.НастройкиСинхронизации.Attribute.Порт" id="9c30e61e-59fb-4072-9bc0-06f27bc65fb5"/>
+			<Metadata name="Catalog.НастройкиСинхронизации.Attribute.Адрес" id="ad62042e-b89a-40cb-bcc4-88c437148a60"/>
+			<Metadata name="Catalog.НастройкиСинхронизации.Attribute.ИмяОчереди" id="dff01df3-06b6-433e-9b41-ffb7e19f6de2"/>
+			<Metadata name="Catalog.НастройкиСинхронизации.Attribute.Логин" id="fabfcc0b-cf55-435a-a107-039867e13b59"/>
+		</Metadata>
+		<Metadata name="Catalog.Проекты" id="8f93f57f-6cb7-416d-8f15-622c72117559" configVersion="8548d6e9efefa32e6ef3d3e124e5a155a48f1089"/>
+		<Metadata name="Catalog.Сотрудники" id="4fda3e30-457a-4aa9-b5cb-6cc0dc5924c1" configVersion="e267148b01e5a2406307c4d645b8aaa99748d15a"/>
+		<Metadata name="CommonCommand.OTUS_Cинхронизация" id="e56327f2-04c1-4360-aefe-704031eccbda" configVersion="d9284fec6e97d2c44d4e44f89d201b1ce78fbf75"/>
+		<Metadata name="CommonCommand.OTUS_Cинхронизация.CommandModule" id="e56327f2-04c1-4360-aefe-704031eccbda.2" configVersion="067fca1eddab9dd4a9838f87f6051f435148106a"/>
+		<Metadata name="CommonModule.СинхронизацияRabbitMQ" id="4528bdd7-0ea1-4eda-a1f4-b8df6710324a" configVersion="0927fbafb1a29c8d1f324374e8459cb3b54d8b0f"/>
+		<Metadata name="CommonModule.СинхронизацияRabbitMQ.Module" id="4528bdd7-0ea1-4eda-a1f4-b8df6710324a.0" configVersion="6ab71cb3e32c804eadd68612caf8920500bbe1b3"/>
+		<Metadata name="CommonTemplate.ВнешняяКомпонентаRabbitMQ" id="bebe3880-3420-4018-98e6-bb4d8b9f565b" configVersion="67a3b62651f529a8e3490869c0042624675d5abd"/>
+		<Metadata name="CommonTemplate.ВнешняяКомпонентаRabbitMQ.Template" id="bebe3880-3420-4018-98e6-bb4d8b9f565b.0" configVersion="cfef63ca3b7a49c8ccbc1469d238385ed9b42494"/>
+		<Metadata name="Configuration.OTUS" id="ff2111db-001d-4e76-965d-4d86ad31adb6" configVersion="d6251bce2ca6e3b0def2ecd7b331794fa9769ef4"/>
+		<Metadata name="Constant.НастройкаПодключения1СЗУП" id="3fb1fab8-5152-412c-88a3-6e5812bff0a2" configVersion="95f4658c9a8b2883e0cc8a1ec9a5da5c64ae3ad8"/>
+		<Metadata name="Document.Командировка" id="43db533b-302b-4c4d-9d36-7a17589d29fa" configVersion="c771b6c914379891c85c224f5524af9705d36220">
+			<Metadata name="Document.Командировка.Attribute.ДатаОкончания" id="2821169f-1f95-480a-a99a-6ef9c6d9e56c"/>
+			<Metadata name="Document.Командировка.Attribute.Сотрудник" id="64311993-72b9-4de4-8e17-de5c7105015b"/>
+			<Metadata name="Document.Командировка.Attribute.OTUS_Проекты" id="8b2bf822-94c0-4635-8476-8d4c46aa002d"/>
+			<Metadata name="Document.Командировка.Attribute.ДатаНачала" id="fb9a9f50-7805-45e6-9bd6-b9265fe62b05"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="fd1b2125-5d25-4372-9062-093bcc84b051" configVersion="32b55367d8d03b88f1d79ebd9ea05ba62655077f"/>
+		<Metadata name="Role.OTUS_ОсновнаяРоль" id="62f0e670-c194-4e76-b3d8-1cf115360b52" configVersion="92538afab522648ec315d8ffa2cfff3232c76a78"/>
+		<Metadata name="Subsystem.OTUS_Синхронизация" id="ee661815-a8b3-4db9-9b75-199674425495" configVersion="67ba26ca0f8b026a3fc2cf1e2ec5f4b78505853a"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
